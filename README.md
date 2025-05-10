@@ -3,7 +3,9 @@
 <h4 align="center">“To aim for anything less than number one is to betray your potential.” – Yoichi Isagi</h4>
 
 -------
-<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/6XX4V0O8a0xdS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/food-studio-ghibli-6XX4V0O8a0xdS"></a></p>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owcm51em9oZGRuamZmYnZpajNnMjYxNGVrZW52MjIxM2hmczRzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" alt="Oops! This gif was deleted, I think." align="center">
+
 -------
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devmarcusrodrigues&label=Profile%20views&color=422f48&style=flat" alt="devmarcusrodrigues" /> </p>
