@@ -1,13 +1,9 @@
 <h1 align="center">The name is Marcus.</h1>
 <h3 align="center">I'm a passionate frontend developer, game designer and writer from Brazil!</h3>
-<h4 align="center">“To aim for anything less than number one is to betray your potential.” – Yoichi Isagi></h4>
+<h4 align="center">“To aim for anything less than number one is to betray your potential.” – Yoichi Isagi</h4>
 
 -------
-<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/6XX4V0O8a0xdS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/food-studio-ghibli-6XX4V0O8a0xdS">via GIPHY</a></p>
--------
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zpkizveyywbywrj25w72blnqke&cover_image=true&theme=default&show_offline=false&background_color=0a0b12&interchange=false&bar_color=65b861)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zpkizveyywbywrj25w72blnqke&redirect=true)
-
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/6XX4V0O8a0xdS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/food-studio-ghibli-6XX4V0O8a0xdS"></a></p>
 -------
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devmarcusrodrigues&label=Profile%20views&color=422f48&style=flat" alt="devmarcusrodrigues" /> </p>
@@ -32,11 +28,19 @@
 
 - ⚡ Fun fact **I like to play soccer and I do write stories - Just didn't released one yet.**
 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zpkizveyywbywrj25w72blnqke&cover_image=true&theme=default&show_offline=false&background_color=0a0b12&interchange=false&bar_color=65b861)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zpkizveyywbywrj25w72blnqke&redirect=true)
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+-------
+
+<p align="center">
 <a href="https://linkedin.com/in/devmarcusrodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devmarcusrodrigues" height="30" width="40" /></a>
 <a href="https://instagram.com/aotorimarcus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aotorimarcus" height="30" width="40" /></a>
 </p>
+
+-------
 
 <h3 align="left">Languages and Tools:</h3>
 
