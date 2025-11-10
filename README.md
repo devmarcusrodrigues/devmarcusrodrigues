@@ -12,9 +12,9 @@
 
 - 🙎🏻‍♂️ My pronouns are **he/him**
 
-- 🎂 I was born in **06/09/2007**
+- 🎂 I was born in **06/09/2007**, and I'm **18 years old**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Java**
 
 - 🌎 I currently live in **São Paulo, Brazil**
 
@@ -24,14 +24,11 @@
 
 - 💬 Ask me about **design and game design**
 
-- 📫 How to reach me **@aotorimarcus at Instagram**
+- 📫 How to reach me: **@aotorimarcus at Instagram**
 
 - 📄 Know about my experiences [here!](www.linkedin.com/in/devmarcusrodrigues)
 
-- ⚡ Fun fact **I like to play soccer and I do write stories - Just didn't released one yet.**
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zpkizveyywbywrj25w72blnqke&cover_image=true&theme=default&show_offline=false&background_color=0a0b12&interchange=false&bar_color=65b861)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zpkizveyywbywrj25w72blnqke&redirect=true)
+- ⚡ Fun fact: **I like to play soccer and I do write stories - Just didn't released one yet.**
 
 <h3 align="left">Connect with me:</h3>
 
