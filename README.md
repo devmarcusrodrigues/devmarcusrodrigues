@@ -3,10 +3,17 @@
 <h4 align="center">“To aim for anything less than number one is to betray your potential.” – Yoichi Isagi</h4>
 
 -------
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owcm51em9oZGRuamZmYnZpajNnMjYxNGVrZW52MjIxM2hmczRzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" alt="Oops! This gif was deleted, I think.">
+</p>
 
-<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owcm51em9oZGRuamZmYnZpajNnMjYxNGVrZW52MjIxM2hmczRzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" alt="Oops! This gif was deleted, I think.">
+-------
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317w7mf7kubqj73ibyrl7not3n5a&cover_image=true&theme=default&show_offline=false&background_color=383f4d&interchange=true&profanity=true&bar_color=a8deff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317w7mf7kubqj73ibyrl7not3n5a&redirect=true)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317w7mf7kubqj73ibyrl7not3n5a&cover_image=true&theme=default&show_offline=false&background_color=262f40&interchange=false&profanity=false&bar_color_cover=true">
+  </a>
+</p>
 
 -------
 
