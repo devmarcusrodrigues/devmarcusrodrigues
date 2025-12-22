@@ -4,7 +4,7 @@
 
 -------
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owcm51em9oZGRuamZmYnZpajNnMjYxNGVrZW52MjIxM2hmczRzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" alt="Oops! This gif was deleted, I think." align="center">
+<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owcm51em9oZGRuamZmYnZpajNnMjYxNGVrZW52MjIxM2hmczRzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" alt="Oops! This gif was deleted, I think.">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317w7mf7kubqj73ibyrl7not3n5a&cover_image=true&theme=default&show_offline=false&background_color=383f4d&interchange=true&profanity=true&bar_color=a8deff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317w7mf7kubqj73ibyrl7not3n5a&redirect=true)
 
@@ -70,7 +70,8 @@
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmarcusrodrigues&show_icons=true&theme=dark&title_color=ffffff&text_color=eaeaea&bg_color=1c1d24&cache_seconds=1800&locale=pt-BR" alt="devmarcusrodrigues" /></p>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=devmarcusrodrigues&show_icons=true&theme=dark&title_color=ffffff&text_color=eaeaea&bg_color=1c1d24&cache_seconds=1800&locale=pt-BR" alt="devmarcusrodrigues" /></p>
 
 
 
