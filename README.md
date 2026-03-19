@@ -1,5 +1,5 @@
-<h1 align="center">The name is Marcus.</h1>
-<h3 align="center">I'm a passionate frontend developer, game designer and writer from Brazil!</h3>
+<h1 align="center">Hello, my name is Marcus!</h1>
+<h3 align="center">I'm a prospect developer from Brazil!</h3>
 <h4 align="center">“To aim for anything less than number one is to betray your potential.” – Yoichi Isagi</h4>
 
 -------
@@ -8,12 +8,6 @@
 </p>
 
 -------
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317w7mf7kubqj73ibyrl7not3n5a&cover_image=true&theme=default&show_offline=false&background_color=262f40&interchange=false&profanity=false&bar_color_cover=true">
-  </a>
-</p>
 
 -------
 
@@ -33,11 +27,11 @@
 
 - 💬 Ask me about **design and game design**
 
-- 📫 How to reach me: **@aotorimarcus at Instagram**
+- 📫 How to reach me: **[@marcusthesniper](https://www.instagram.com/marcusthesniper/) at Instagram**
 
 - 📄 Know about my experiences [here!](www.linkedin.com/in/devmarcusrodrigues)
 
-- ⚡ Fun fact: **I like to play soccer and I do write stories - Just didn't released one yet.**
+- ⚡ Fun fact: **I like to play soccer, volleyball and basketball.**
 
 <h3 align="left">Connect with me:</h3>
 
